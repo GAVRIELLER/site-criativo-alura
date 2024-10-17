@@ -33,11 +33,17 @@ header {
 
 }
 .Sublinha-1{
-
+ margin: 24px;
 }
 .Titulo-artigo{
-
+ margin: 24px;
 }
 .texto-artigo-1{
-    
+    display: flex;
+}
+.texto-artigo-2{
+    display: flex;
+}
+.Img-trailer-1{
+  
 }
