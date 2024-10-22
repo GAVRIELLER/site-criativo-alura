@@ -2,13 +2,6 @@
     margin: 0;
     padding: 0;
 }
-header {
-    background-color: #424E61;
-    color: #CFDFED;
-}
-.imagem-cabeçalho{
-    width: 20%;
-}
 .cabeçalho{
     background-color: #424E61;
     color: white;
@@ -17,14 +10,10 @@ header {
     align-items: center;
     padding: 29px 0;
 }
-.lista-cabeçalho{
-    display: inline-block;
-    margin: 0 16px;
-}
 .lista-item-cabeçalho{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 20px;
 }
 .Artigo-GTA-VI{
     background-image: linear-gradient(#5C6D87, #598daa);
@@ -38,10 +27,10 @@ header {
     width: 35%;
 }
 .sublinha-1{
-
- Color: rgb(184, 48, 48);
+ Color: #ff0000ac;
 }
 .Titulo-artigo{
+    padding: 24px;
 }
 .texto-artigo-1{
 }
