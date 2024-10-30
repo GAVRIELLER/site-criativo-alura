@@ -16,6 +16,9 @@
     align-items: center;
     padding: 29px 0;
 }
+.imagem-cabeçalho{
+    width: 10%;
+}
 .lista-item-cabeçalho{
     display: inline-block;
     margin: 0 16px;
@@ -35,11 +38,14 @@
 .Titulo-artigo{
     padding: 24px;
 }
-.texto-artigo-1{
-}
-.texto-artigo-2{
-}
 .Img-trailer-1{
  width: 125%;
  height: 125%;
+}
+.rodape{
+    background-color: black;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
 }
